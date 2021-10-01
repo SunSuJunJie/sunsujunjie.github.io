@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sujunjie Sun / Personal Homepage"
+title                    : "Sujunjie Sun / Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
