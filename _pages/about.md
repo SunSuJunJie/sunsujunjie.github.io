@@ -12,6 +12,7 @@ Sujunjie Sun received the M.S. degree from the Department of Computer Science an
 Address
 ------
 * Room 504, Building of Computer Science, Jiulonghu Campus, Southeast University, Nanjing, P. R. China
+* Email：sjjsun@seu.edu.cn
 
 Publications
 ------
