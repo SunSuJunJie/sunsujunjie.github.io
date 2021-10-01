@@ -19,4 +19,7 @@ Publications
 
 Awards
 =====
-* a
+* Microsoft Imagine Cup, Second Prize, in 2018
+* China Software Cup, Third Prize, in 2018
+* Blue Bridge Cup (C/C++ algorithm competition), Second Prize, in 2018
+* China Postgraduate Mathematical Modelling Competition, Third Prize, in 2019
