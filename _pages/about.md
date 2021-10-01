@@ -7,19 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Sujunjie Sun received the M.S. degree from the Department of Computer Science and Technology, China University of Mining and Technology, Xuzhou, China, in 2019. He is currently a PhD student at the Department of Computer Science, Southeast University, Nanjing, China, in 2021. His research interest includes Wireless Networks, Mobile Edge Computing, Scheduling Algorithms, Age of Information, Convex Optimization.
 
 Address
 ======
-*s
-
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Room 504, Building of Computer Science, Jiulonghu Campus, Southeast University, Nanjing, P. R. China
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* S. Sun, G. Zhang, H. Mei, K. Wang and K. Yang, "Optimizing Multi-UAV Deployment in 3-D Space to Minimize Task Completion Time in UAV-Enabled Mobile Edge Computing Systems," in IEEE Communications Letters, vol. 25, no. 2, pp. 579-583, Feb. 2021.(JCR:Q2, IF:3.436) PDF("https://doi.org/10.11.9/LCOMM.2020.3029144")
