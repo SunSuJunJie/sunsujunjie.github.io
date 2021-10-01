@@ -15,7 +15,7 @@ Address
 
 Publications
 ======
-* <u>S. Sun</u>, G. Zhang, H. Mei, K. Wang and K. Yang, "Optimizing Multi-UAV Deployment in 3-D Space to Minimize Task Completion Time in UAV-Enabled Mobile Edge Computing Systems," in IEEE Communications Letters (JCR:Q2, IF:3.436) [PDF]("https://doi.org/10.1109/LCOMM.2020.3029144")
+* **S. Sun**, G. Zhang, H. Mei, K. Wang and K. Yang, "Optimizing Multi-UAV Deployment in 3-D Space to Minimize Task Completion Time in UAV-Enabled Mobile Edge Computing Systems," in IEEE Communications Letters (JCR:Q2, IF:3.436)
 
 Awards
 =====
