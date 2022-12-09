@@ -16,7 +16,7 @@ Address
 
 Publications
 ------
-* **S. Sun**, W. Wu, C. Fu, X. Qiu and J. Luo, "Energy-aware Age Optimization: AoI Analysis in Multi-source Update Network Systems Powered by Energy Harvesting," in IEEE International Conference on Computer Communications (INFOCOM), accepted, 2023. (**CCF A**)
+* **S. Sun**, W. Wu, C. Fu, X. Qiu and J. Luo, "Energy-aware Age Optimization: AoI Analysis in Multi-source Update Network Systems Powered by Energy Harvesting," in IEEE International Conference on Computer Communications (INFOCOM 2023), May 17-20, 2023, New York, USA. (**CCF A**)
 * **S. Sun**, G. Zhang, H. Mei, K. Wang and K. Yang, "Optimizing Multi-UAV Deployment in 3-D Space to Minimize Task Completion Time in UAV-Enabled Mobile Edge Computing Systems," in IEEE Communications Letters, vol. 25, no. 2, pp. 579-583, Feb. 2021. (**JCR:Q2, IF:3.436**)
 * C. Fu, X. Lu, X. Qiu, **S. Sun**, X. Xu, W. Wu, C. Xue, S. Han, "Throughput Maximization in Wireless Communication Systems Powered by Hybrid Energy Harvesting," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022. (**CCF A**)
 
