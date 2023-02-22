@@ -20,6 +20,10 @@ Publications
 * **S. Sun**, G. Zhang, H. Mei, K. Wang and K. Yang, "Optimizing Multi-UAV Deployment in 3-D Space to Minimize Task Completion Time in UAV-Enabled Mobile Edge Computing Systems," in IEEE Communications Letters, vol. 25, no. 2, pp. 579-583, Feb. 2021. (**JCR:Q2, IF:3.436**)
 * C. Fu, X. Lu, X. Qiu, **S. Sun**, X. Xu, W. Wu, C. Xue, S. Han, "Throughput Maximization in Wireless Communication Systems Powered by Hybrid Energy Harvesting," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022. (**CCF A**)
 
+Thesis
+------
+* **S. Sun**, "Research on Resource Scheduling Mechanism of Mobile Edge Computing Based on Multi-UAV", M.S. thesis, Dept. of Computer Science and Technology, China University of Mining and Technology, Sept. 2021. (Outstanding school paper)
+
 Awards
 ------
 * Microsoft Imagine Cup, Second Prize, in 2018
