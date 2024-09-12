@@ -26,9 +26,6 @@ Thesis
 ------
 * **S. Sun**, "Research on Resource Scheduling Mechanism of Mobile Edge Computing Based on Multi-UAV", M.S. thesis, Dept. of Computer Science and Technology, China University of Mining and Technology, Sept. 2021. (Outstanding school paper)
 
-Awards
+Talks
 ------
-* Microsoft Imagine Cup, Second Prize, in 2018
-* China Software Cup, Third Prize, in 2018
-* Blue Bridge Cup (C/C++ algorithm competition), Second Prize, in 2018
-* China Postgraduate Mathematical Modelling Competition, Third Prize, in 2019
+* [Optimization Theroy and Its Applications](https://www.dropbox.com/scl/fi/6dior6ltsjyptp8o5itva/Optimization-Theory-and-Its-Applications.pdf?rlkey=xpl18n6medjncxgjwoott8dle&st=tscpiuyk&dl=0)
